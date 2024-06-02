@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+
+# Environment variables
+.env
+backend/db/config.env
+
+# Dependency directories
+backend/node_modules/
+frontend/node_modules/
+
+# Build directories (if applicable)
+frontend/build/
+frontend/dist/
